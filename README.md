@@ -130,9 +130,3 @@ Main components include:
 - Off-Gas Waste Heat Recovery for Electric Arc Furnace Steelmaking Using Calcium Hydroxide (Ca(OH)2) Dehydration. Georg Hartfuß,* Max Schmid, and Günter Scheffknecht.
 - Study of the cascade system model for waste heat recovery from the flue gases of the electric arc furnace. К. Volchanska a, A. Yerofieieva a, О. Barishenko a, A. Vlasov b,* , М. Ivchenko a, А. Yeremenko
 
-## How to Run
-
-Install dependencies:
-
-```bash
-pip install streamlit
